@@ -1,6 +1,1 @@
-import {sumTwoNumbers} from "./utils";
-
-let ageDeJean = 23;
-let ageDeJacques = 65;
-
-sumTwoNumbers(ageDeJacques, ageDeJacques);
+// http://127.0.0.1:5500/
