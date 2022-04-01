@@ -8,7 +8,3 @@ every time I create a new repo.
 
 ## License
 Under the MIT License
-
-## More
-Inspired by the FaustinM's website.
-https://github.com/faustinm
