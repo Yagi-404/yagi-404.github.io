@@ -7,9 +7,4 @@ But notice that I'll maintain this website
 every time I create a new repo.
 
 ## License
-No license, totally open source, copyable
-and hackable.
-
-## More
-Inspired by the FaustinM's website.
-https://github.com/faustinm
+Under the MIT License
