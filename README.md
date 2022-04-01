@@ -7,8 +7,7 @@ But notice that I'll maintain this website
 every time I create a new repo.
 
 ## License
-No license, totally open source, copyable
-and hackable.
+Under the MIT License
 
 ## More
 Inspired by the FaustinM's website.
