@@ -16,7 +16,7 @@ h2 {
     color: aliceblue;
     background-color: black;
     background: rgba(red, green, blue, 0.5);
-    width: 273px;
+    width: auto;
 }
 
 .title {
