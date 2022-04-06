@@ -13,10 +13,9 @@ h2 {
     margin-top: 3rem;
     margin-left: 45%;
     font-family: 'Anek Bangla', sans-serif;
-    color: aliceblue;
-    background-color: black;
+    color: greenyellow;
     background: rgba(red, green, blue, 0.5);
-    width: auto;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
 
 .title {
